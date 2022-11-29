@@ -1,0 +1,38 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@700&family=Lato:ital,wght@0,300;0,400;1,300&family=Montserrat:ital,wght@0,400;0,600;0,700;0,740;0,800;1,300;1,400&display=swap');
+
+.blog{
+    border-radius: 8px;
+    overflow: hidden;
+    width: 520px;
+    display: flex;
+    font-family: 'Montserrat', sans-serif;
+    background-color: burlywood;
+    
+}
+
+.fact-content{
+    margin-top: 90px;
+    margin-right: 20px;
+    margin-left: 15px;
+    
+
+}
+.percent{
+    font-size: 50px;
+    color: red;
+    font-weight: bold;
+    margin-bottom: 2px;
+}
+
+.text-under-percent{
+    margin-top: 0;
+    font-size: 12px;
+}
+
+
+.article{
+    margin-right: 8px;
+      font-size: 12px;
+    
+}
